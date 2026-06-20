@@ -10,7 +10,6 @@ export default function Teoria1() {
   }, []);
 
 
-
   return (
     <>
       
